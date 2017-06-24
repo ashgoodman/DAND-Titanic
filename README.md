@@ -1,3 +1,3 @@
-# dand-titanic
+Investigate a Dataset - Titanic
 
-Data Anlysis NanoDegeree P2 Investigate a Dataset
+Done for DAND Udacity
